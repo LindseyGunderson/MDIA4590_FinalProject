@@ -173,8 +173,6 @@ padding: 15px;
 
 }
 
-
-
 .skateboard-images{
 
   width: 100%;
@@ -188,12 +186,19 @@ padding: 15px;
 
 }
 
+.learn-more-btn {
+
+  text-align: center;
+}
+
 .learn-btn {
 
   color: #708765;
   background-color: #FFFFFF;
   border-radius: 0;
   border: 2px solid #708765;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
 }
 
 .learn-btn:hover {
