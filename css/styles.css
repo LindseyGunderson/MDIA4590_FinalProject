@@ -439,6 +439,9 @@ footer .divider {
 
   width: 60%;
   margin: auto auto;
+  padding: 0.5rem;
+  border-radius: 2px;
+  border: none;
 
 }
 
@@ -534,6 +537,23 @@ footer .divider {
   font-size: 1rem;
 
 }
+
+/* Footer styling for tablet */
+
+.email-content {
+
+  text-align: left;
+  
+}
+.email-input {
+
+  width: 80%;
+  padding: 0.5rem;
+  border-radius: 2px;
+  border: none;
+
+}
+
 
 }
 
