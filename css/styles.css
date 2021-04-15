@@ -427,6 +427,12 @@ footer .divider {
 
 } 
 
+.contact-section, .email-content, .socials-section {
+
+  padding-top: 1.5rem;
+}
+
+
 /* ------------ Email Input ------------- */
 
 .email-input {
@@ -557,7 +563,7 @@ footer .divider {
 /* titles for footer */
 .email-input {
 
-  width: 100%;
+  width: 70%;
   margin: auto auto;
 
 }
@@ -605,4 +611,13 @@ footer .divider {
     background-size: cover;
   }
   
+
+  .email-input {
+
+    width: 60%;
+    margin: auto auto;
+  
+  }
+
+
   }
