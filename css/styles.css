@@ -121,9 +121,10 @@ padding: 15px;
 .header-text, .header-slogan {
 
   color: #8cab7b;
-  font-size: 2rem;
+  font-size: 40px;
   font-family: 'Work Sans', sans-serif;
   font-weight: 900;
+  line-height: 2.5rem;
 
 }
 
@@ -492,7 +493,8 @@ footer .divider {
 
   .header-text, .header-slogan {
 
-    font-size: 2.3rem;
+    font-size: 40px;
+    line-height: 2.5rem;
   
   }
 
@@ -573,7 +575,8 @@ footer .divider {
 
   .header-text, .header-slogan {
 
-    font-size: 2.6rem;
+    font-size: 48px;
+    line-height: 3rem;
   
   }
 
@@ -617,8 +620,9 @@ footer .divider {
 
   .header-text, .header-slogan {
 
-    font-size: 3rem;
+    font-size: 57px;
     padding-left: 3rem;
+    line-height: 3.5rem;
   
   }
 
